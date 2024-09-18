@@ -1,0 +1,5 @@
+https://www.itconductor.com/blog/cve-2020-6287-aka-recon-remotely-exploitable-code-on-netweaver
+https://st03k.tistory.com/?page=14
+https://www.dailysecu.com/news/articleView.html?idxno=132640
+
+CVE-2024-33006
